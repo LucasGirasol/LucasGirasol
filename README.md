@@ -17,6 +17,7 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante de **Estatística e Ciência de
 
 *   **[relatorio-de-processo-seletivo](https://github.com/LucasGirasol/relatorio-de-processo-seletivo):** Análise exploratória de dados utilizando a linguagem Python e algumas bibliotecas.
 *   **[estudo-de-simulacao-modelo-gama](https://github.com/LucasGirasol/estudo-de-simulacao-modelo-gama):** Neste trabalho, o objetivo é avaliar e comparar empiricamente o desempenho dos Estimadores de Máxima Verossimilhança (EMV) e dos Estimadores de Momentos (EM) para os parametros da distribuição Gama.
+*   **[relacao-estresse-financeiro-e-aposta](https://github.com/LucasGirasol/relacao-estresse-financeiro-e-aposta):** Trabalho da discplina de metodologia científica.
 ---
 
 ## Formação Acadêmica & Conquistas
