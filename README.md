@@ -15,9 +15,8 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante de **Estatística e Ciência de
 
 ## Projetos em Destaque
 
-*   **[Nome do Projeto 1](link-do-seu-repositorio):** Breve descrição do projeto (ex: Análise Exploratória de Dados sobre X utilizando R).
-*   **[Nome do Projeto 2](link-do-seu-repositorio):** Breve descrição do projeto (ex: Modelo de Machine Learning para predição de Y usando Python).
-
+*   **[relatorio-de-processo-seletivo](https://github.com/LucasGirasol/relatorio-de-processo-seletivo):** Análise exploratória de dados utilizando a linguagem Python e algumas bibliotecas.
+*   **[estudo-de-simulacao-modelo-gama](https://github.com/LucasGirasol/estudo-de-simulacao-modelo-gama):** Neste trabalho, o objetivo é avaliar e comparar empiricamente o desempenho dos Estimadores de Máxima Verossimilhança (EMV) e dos Estimadores de Momentos (EM) para os parametros da distribuição Gama.
 ---
 
 ## Formação Acadêmica & Conquistas
